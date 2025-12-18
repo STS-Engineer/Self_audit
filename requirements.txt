@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+hypercorn
+daphne
+requests
+psycopg2-binary
+fpdf   
+email-validator          
+python-multipart
+apscheduler
+aiosmtplib
+python-dotenv
